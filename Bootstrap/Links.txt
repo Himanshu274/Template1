@@ -1,0 +1,7 @@
+https://cdn.jsdelivr.net/gh/Himanshu274/Template1@main/Bootstrap/Bootstrap.css
+
+https://cdn.jsdelivr.net/gh/Himanshu274/Template1@main/Bootstrap/script1.js
+
+https://cdn.jsdelivr.net/gh/Himanshu274/Template1@main/Bootstrap/script2.js
+
+https://cdn.jsdelivr.net/gh/Himanshu274/Template1@main/Bootstrap/script3.js
